@@ -1,0 +1,200 @@
+body{
+   margin: 0;
+   padding: 0;
+   background: url(https://userscontent2.emaze.com/images/6eeff49c-6ab8-4326-a0c6-46325c66e885/44766e6d5b47da7ff42f1cb1a3ce56c2.jpeg);
+   background-repeat:no-repeat  round;
+   background-size: 100%;
+   background-attachment: fixed;
+}
+
+
+
+.h1-center{
+   background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Himmelsblau.jpg/1280px-Himmelsblau.jpg);
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+   background-size: 100%;
+   padding-top:  10px;
+   padding-right: 10px;
+   text-align: right;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 20px;
+   color: cornsilk;
+   height:40px;
+   display: flex;
+   justify-content: space-between;
+   padding-left: 10px;
+}
+
+
+.h3-center{
+   
+color: sandybrown;
+   
+margin-right: auto;
+   
+width: 100%;
+   
+text-align: center;
+   
+font-size: 35px;
+   
+display: inline-block;
+   
+font-family: monospace;
+}
+
+
+.main{
+   width: 100%;
+   height: 960px;
+   display: flex;
+   flex-direction: row-reverse;
+   margin-top: -76px;
+
+   justify-content: space-around;
+}
+
+.main-post{
+   margin-top: 212px;
+   color: rgb(255, 255, 255);
+   margin-bottom: -18px;
+} 
+
+
+.main-post h3{
+   font-size: 29px;
+   color: greenyellow;
+   font-family: monospace;
+   margin-left: 17px;
+}
+.main-post img{
+   width: 60px;
+   margin-top: 21px;
+}
+a{
+   text-decoration: none;
+}
+
+
+.city div{
+   background-color: beige;
+   height: 29px;
+   width: 180px;
+   border: ridge;
+   text-align: center;
+   font-family: sans-serif;
+   padding-top: 13px;
+} 
+.title {
+   margin-left: 619px;
+   margin-top: -17px;
+   font-size: 32px;
+   font-family: monospace;
+   color: darkblue;
+   font-weight: bold;
+}
+
+.min-degrees1{
+
+color: firebrick;
+
+font-size: 20px;
+
+font-family: monospace;
+}
+.min-degrees2{
+
+color: firebrick;
+
+font-size: 20px;
+
+font-family: monospace;
+}
+.min-degrees3{
+
+color: firebrick;
+
+font-size: 20px;
+
+font-family: monospace;
+}
+.min-degrees4{
+
+color: firebrick;
+
+font-size: 20px;
+
+font-family: monospace;
+}
+.min-degrees5{
+
+color: firebrick;
+
+font-size: 20px;
+
+font-family: monospace;
+}
+
+.search1{
+   background-color: bisque;
+}
+label{
+   
+color: darksalmon;
+   
+font-size: 22px;
+   
+font-family: math;
+}
+
+h5{
+   
+display: inline-block;
+   
+font-size: 21px;
+   
+font-family: monospace;
+   
+margin-top: 14px;
+   
+background-color: aquamarine;
+   
+border: 2px solid;
+   
+border-radius: 21px;
+   
+margin-left: 40px;
+}
+.city{
+   
+display: inline-block;
+   
+margin-left: 81px;
+   
+margin-top: 2px;
+}
+.date{
+   color: brown;
+   font-size: 22px;
+   font-family: fantasy;
+   margin-top: 27px;
+}
+.min-degrees{
+
+margin-top: 20px;
+
+font-size: 25px;
+
+font-family: fantasy;
+}
+.description{
+
+font-size: 20px;
+
+margin-top: 12px;
+
+font-family: cursive;
+
+color: darkblue;
+}
